@@ -1,5 +1,5 @@
 const getDegree = (x, n) => {
-    result = Math.pow (x, n);
+    result = Math.pow(x, n);
     return result;
 }
 
